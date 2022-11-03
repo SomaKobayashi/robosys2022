@@ -1,9 +1,12 @@
-# robosys2022
-ロボットシステム学の練習リポジトリ
+# plusコマンド
 
- * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
- * このパッケージは，3条項ライセンスの下,ryuichiueda/emcl由来のコード（© 2022 Soma Kobayashi）を利用しています．
+![test](https://github.com/SomaKobayashi/robosys2022/actions/workflows/test.yml/badge.svg)
+
+標準入力から読み込んだ数字を足す。
+
+* このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
+* このパッケージは，3条項ライセンスの下,ryuichiueda/emcl由来のコード（© 2022 Soma Kobayashi）を利用しています．
 * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
- * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
-  * © 2022 Ryuichi Ueda
- * © 2022 Soma Kobayashi
+* [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+* © 2022 Ryuichi Ueda
+* © 2022 Soma Kobayashi
