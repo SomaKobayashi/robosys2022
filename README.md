@@ -1,8 +1,8 @@
 # plusコマンド
 
-![test](https://github.com/SomaKobayashi/robosys2022/actions/workflows/test.yml/badge.svg)
-
 標準入力から読み込んだ数字を足す。
+
+![test](https://github.com/SomaKobayashi/robosys2022/actions/workflows/test.yml/badge.svg)
 
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
 * このパッケージは，3条項ライセンスの下,ryuichiueda/emcl由来のコード（© 2022 Soma Kobayashi）を利用しています．
