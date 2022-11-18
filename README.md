@@ -6,11 +6,11 @@
 
 * Ubuntu 18.04.5 on Windows
 
-##テストの結果
+## テストの結果
 
 ![test](https://github.com/SomaKobayashi/robosys2022/actions/workflows/test.yml/badge.svg)
 
-##plusコマンドの動かし方
+## plusコマンドの動かし方
 
 * 必要なソフトウェア
   * Python 3.7～3.10
@@ -22,14 +22,14 @@
       例2 seq 10 | ./plus
       1～10の数字を足した結果が標準出力に表示される。
 
-##plusコマンド説明
+## plusコマンド説明
 
 標準入力から読み込んだ数字を足し、結果を標準出力に表示する。
 
 * Python
   * テスト済みバージョン: 3.7～3.10
 
-##ライセンス
+## ライセンス
 
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
 * このパッケージは，3条項ライセンスの下,ryuichiueda/emcl由来のコード（© 2022 Soma Kobayashi）を利用しています．
