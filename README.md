@@ -1,14 +1,11 @@
 # plusコマンド
+![test](https://github.com/SomaKobayashi/robosys2022/actions/workflows/test.yml/badge.svg)
 
 このplusコマンドは、任意の数字をすべて足し、その答えを知るために用いることができます。
 
-## テスト環境
+## 実行環境
 
-* Ubuntu 18.04.5 on Windows
-
-## テストの結果
-
-![test](https://github.com/SomaKobayashi/robosys2022/actions/workflows/test.yml/badge.svg)
+* WSL Ubuntu 18.04
 
 ## plusコマンドの動かし方
 
@@ -29,9 +26,8 @@
 ## ライセンス
 
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
-* このパッケージは，3条項ライセンスの下,ryuichiueda/emcl由来のコード（© 2022 Ryuichi Ueda）を利用しています．
 * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
 * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 
-©　2022 Soma Kobayashi
+© 2022 Soma Kobayashi
 
