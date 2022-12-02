@@ -1,4 +1,4 @@
-# plusコマン
+# plusコマンド
 ![test](https://github.com/SomaKobayashi/robosys2022/actions/workflows/test.yml/badge.svg)
 
 このplusコマンドは、任意の数字をすべて足し、その答えを知るために用いることができます。
